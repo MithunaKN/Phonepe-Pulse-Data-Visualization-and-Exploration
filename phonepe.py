@@ -11,8 +11,8 @@ st.set_page_config(page_title="Phonepe Pulse",
 # Connecting to MySql
 mydb = mysql.connector.connect(
     host = "localhost",
-    user = "root",
-    password = "mithu123",
+    user = "your_user",
+    password = "your_password",
     database = "Phonepe_Pulse"
 )
 mycursor = mydb.cursor(buffered=True)
