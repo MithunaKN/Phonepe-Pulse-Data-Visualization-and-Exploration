@@ -13,4 +13,4 @@ Using the Streamlit and Plotly libraries in Python to create an interactive and 
 # Data retrieval: 
 Using the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe. Using the data in the dataframe, the dashboard is updated dynamically.
 # Libraries Used
-pandas, json, os, plotly.express, streamlit 
+repo for cloning, pandas, json, os, mysql.connector, plotly.express, streamlit 
